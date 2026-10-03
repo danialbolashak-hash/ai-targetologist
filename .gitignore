@@ -1,0 +1,33 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Build
+.next
+out
+dist
+build
+
+# Env
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+service-account*.json
+
+# Cache
+.vercel
+.DS_Store
+*.log
+
+# Prisma
+prisma/migrations
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts

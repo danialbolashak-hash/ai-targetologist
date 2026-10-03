@@ -1,0 +1,4 @@
+title = "AI Targetologist secret scanning"
+
+[extend]
+useDefault = true
